@@ -12,13 +12,13 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Stumpy please... 🥺",
-    "If you say no, I will be really sad... And there will be no cuddles",
-    "I will be very sad... And Puca will be upset😢",
-    "Please Stumps??? 💔",
-    "Don't do this to me and Puca...",
+    "Please Dave... 🥺",
+    "If you say no, I will be really sad... And there will be no banter ",
+    "I will be very sad... And youn might see me cry😢",
+    "Please Dave??? 💔",
+    "Don't do this to me...",
     "Last chance! 😭",
-    "Like Puca would say, You can't catch me anyway 😜"
+    "You can't catch me anyway, I'm too fast for you 😜"
 ]
 
 const yesTeasePokes = [
